@@ -1,5 +1,5 @@
 #Power BI - Dshboard
-# Financial-analysis 
+# Financial-analysis-Dashboard
 Hey Github network!
 🚀 I'm thrilled to share that I have taken my first step into the dynamic world of Analytics , and with my data visualization and analysis capabilities.
 
