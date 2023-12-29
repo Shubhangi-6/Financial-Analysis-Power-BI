@@ -1,4 +1,4 @@
-#Power BI - Dshboard
+#Power BI - Dashboard
 # Financial-analysis-Dashboard
 Hey Github network!
 🚀 I'm thrilled to share that I have taken my first step into the dynamic world of Analytics , and with my data visualization and analysis capabilities.
@@ -21,6 +21,6 @@ Hey Github network!
 ⭐ This project showcased my expertise in data analysis, visualizations and problem solving.
 🔑 Excited to continue exploring Power BI and leveraging its capabilities to solve real-world data challenges.
 
-#dataanalytics #businessanalytics #powerbi # #sales #datavisualizations #salesanalysis #analytics #project # #linkedin # #network
+#dataanalytics #businessanalytics #powerbi  #sales #datavisualizations #salesanalysis #analytics #project #network
 ![financial analysis photo](https://github.com/Shubhangi-6/Financial-analysis/assets/140615568/a82b30c3-272b-41cd-b084-a59c99fb256e)
 
